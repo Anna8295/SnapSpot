@@ -50,4 +50,16 @@ Users can perform the following actions:
 
 ## Screenshots
 
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/main.PNG" alt="main" style="width: 25%">
+  <img src="screenshots/signup.PNG" alt="signup" style="width: 25%">
+  <img src="screenshots/login.PNG" alt="login" style="width: 25%">
+  <img src="screenshots/create.PNG" alt="create" style="width: 25%">
+  <img src="screenshots/map.PNG" alt="map" style="width: 25%">
+  <img src="screenshots/create post.PNG" alt="createpost" style="width: 25%">
+  <img src="screenshots/newpost.PNG" alt="newpost" style="width: 25%">
+  <img src="screenshots/profile.PNG" alt="profile" style="width: 25%">
+  <img src="screenshots/post.PNG" alt="post" style="width: 25%">
+</div>
+
 
